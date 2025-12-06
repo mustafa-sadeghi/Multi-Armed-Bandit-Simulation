@@ -1,11 +1,5 @@
 # Multi-Armed Bandit Simulation
 
-## Description
-
-A simple and extensible simulation environment for multi-armed bandit problems. The project provides a notebook for experimenting with exploration–exploitation strategies, visualizing reward trajectories, and comparing bandit policies in a controlled setting.
-
----
-
 ## Overview
 
 The goal of this repository is to:
