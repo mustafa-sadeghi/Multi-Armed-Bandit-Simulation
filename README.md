@@ -37,7 +37,7 @@ You can use it as a learning tool for reinforcement learning concepts, or as a b
 ```text
 .
 ├── BanditSimulation.ipynb   # Main notebook with simulation and analysis
-└── README.md                # Project documentation
+└── README.md                
 ```
 ## Requirements
 
